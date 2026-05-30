@@ -1,5 +1,4 @@
 name: OpenDTU-OnBattery Build
-
 on:
   push:
     paths-ignore:
