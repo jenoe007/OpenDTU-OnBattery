@@ -153,3 +153,4 @@ organisation `hoylabs` and is since maintained by multiple community members.
 * We like to thank all contributors. With your ideas and enhancements, you have
   made OpenDTU-OnBattery much more than
   [@helgeerbe](https://github.com/helgeerbe) originally had in mind.
+dps5015 Build test
