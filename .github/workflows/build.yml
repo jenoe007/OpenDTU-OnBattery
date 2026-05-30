@@ -1,5 +1,5 @@
-  name: OpenDTU-OnBattery Build
-  on:
+name: OpenDTU-OnBattery Build
+on:
   push:
     paths-ignore:
       - docs/**
